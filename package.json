@@ -1,17 +1,16 @@
 {
-  "_from": "@phaetonhq/phaeton-api-client",
-  "_id": "@phaetonhq/phaeton-api-client@2.0.3",
+  "_from": "phaeton-api-client",
+  "_id": "phaeton-api-client@2.0.3",
   "_inBundle": false,
   "_integrity": "sha512-wXMQAh9lS5tpgQZzrllbAvVJ3IlJi98/27JIjV2pqnu/tsuxZxHvI+hlYSldw+4ACB6NLUglGgx78bsT5QG+5w==",
-  "_location": "/@phaetonhq/phaeton-api-client",
+  "_location": "/phaeton-api-client",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "@phaetonhq/phaeton-api-client",
-    "name": "@phaetonhq/phaeton-api-client",
+    "raw": "phaeton-api-client",
+    "name": "phaeton-api-client",
     "escapedName": "@phaetonhq%2fphaeton-api-client",
-    "scope": "@phaetonhq",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -20,9 +19,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@phaetonhq/phaeton-api-client/-/phaeton-api-client-2.0.3.tgz",
   "_shasum": "ff6629da1e6f3d5519ff2cba7b6e309f504afa26",
-  "_spec": "@phaetonhq/phaeton-api-client",
+  "_spec": "phaeton-api-client",
   "_where": "/home/hotam/project/phaeton/phaeton-packages",
   "author": {
     "name": "Phaeton Foundation",
@@ -77,7 +75,7 @@
   ],
   "license": "Apache-2.0",
   "main": "dist-node/index.js",
-  "name": "@phaetonhq/phaeton-api-client",
+  "name": "phaeton-api-client",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PhaetonHQ/phaeton-sdk.git"
