@@ -32,7 +32,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "@types/node": "10.12.21",
-    "axios": "0.19.0"
+    "axios": "1.6.0"
   },
   "deprecated": false,
   "description": "An API client for the Phaeton network",
